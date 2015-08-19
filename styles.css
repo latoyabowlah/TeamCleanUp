@@ -1,0 +1,117 @@
+.wrapper {
+  width: 1200px;
+  margin: 0 auto;
+}
+
+header {
+  padding: 5px;
+  text-align: center;
+  background-color: #7ECF7E;
+  margin-bottom: 5px;
+  border-radius: 10px;
+}
+
+.navi {
+  display: inline;
+  margin: 0 15px;
+}
+
+.fixed-block img{
+      width: 2%;
+      height:2%;
+    }
+    
+footer{
+  padding: 5px;
+  text-align: center;
+  background-color: white;
+  margin-top:5px;
+  margin-bottom: 5px;
+}
+
+
+a {
+  color: black;
+  text-decoration: none;
+}
+
+.main {
+  float: left;
+  width: 50%;
+  height: 50%;
+  margin-top: 5px;
+  padding: 10px;
+  padding-top: 20px;
+}
+
+.col-top {
+  
+  float: left;
+  width: 1190px;
+  height: 55%;
+  margin-top: 150px 0;
+  padding: 5px;
+  background-color:  #7ECF7E;
+  border-radius: 10px;
+}
+
+.head2 {
+   margin-left: 40px;
+
+}
+
+.categories {
+   padding: 5px;
+   list-style-type: none;
+}
+
+.col-1 {
+  float: left;
+  width: 590px;
+  margin-top: 5px;
+  height: 560px;
+  background-color: #F0F5F5;
+  border-radius: 10px;
+}
+
+h2 {
+  margin-left: 40px;
+}
+
+.sanitation_workers {
+  width: 500px;
+  margin-left: 40px;
+}
+
+.text-1 {
+ text-align: center;
+}
+
+.col-2 {
+  float: right;
+  width: 590px;
+  margin-top: 5px;
+  height: 560px;
+  background-color: #F0F5F5; 
+  border-radius: 10px;
+}
+
+input[type=text], textarea {
+  background-color: lavender;
+  height: 40px;
+}
+
+.message {
+  height: 40px;
+}
+
+.form {
+  margin-left: 40px;
+}
+
+footer {
+	float: left;
+	width: 1190px;
+	margin-top: 5px;
+  border-radius: 10px;
+}
